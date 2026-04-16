@@ -82,19 +82,8 @@ python app.py
 - ¿Cuál es el horario de atención del soporte?
 - Necesito instalar VPN en mi equipo corporativo.
 
-## Notas para la entrega
-- La carpeta `docs/` contiene material de apoyo para el informe.
-- La carpeta `evidencias/` debe completarse con capturas de pantalla, pruebas y observaciones del equipo.
-- Las conclusiones, reflexiones personales y justificaciones técnicas finales deben ser revisadas y ajustadas por el equipo antes de entregar.
-
-## Posibles mejoras
-- Integrar un modelo LLM real.
-- Usar embeddings y una base vectorial real.
-- Agregar autenticación y control de acceso.
-- Conectar el escalamiento con un sistema real de tickets.
 
 ## Integrantes
-- Completar con nombres del equipo.
-
+- Alejandro Paredes
 ## Enlace del repositorio
-- Completar una vez creado en GitHub o GitLab.
+- https://github.com/AA406/EncargoN1-IA
