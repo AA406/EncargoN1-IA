@@ -12,4 +12,3 @@ La arquitectura propuesta considera los siguientes componentes:
 9. Escalamiento a analista humano.
 10. Registro de logs y trazabilidad.
 
-La imagen `arquitectura_solucion.png` puede insertarse tanto en el informe como en la presentación.
