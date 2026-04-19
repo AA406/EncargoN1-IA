@@ -1,0 +1,3 @@
+Política interna de autenticación.
+Toda cuenta corporativa requiere una contraseña segura, verificación por correo y cambio obligatorio cada 90 días.
+Los bloqueos por intentos fallidos deben ser revisados por el equipo de soporte.
