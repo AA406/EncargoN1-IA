@@ -1,2 +1,0 @@
-Referencia técnica externa sobre VPN corporativa.
-La instalación de VPN debe realizarse con cliente autorizado, credenciales corporativas y validación del área TI antes del primer acceso remoto.

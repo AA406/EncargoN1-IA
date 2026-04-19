@@ -1,3 +1,0 @@
-Procedimiento interno para restablecimiento de contraseña.
-El usuario debe ingresar al portal de soporte, seleccionar la opción 'Olvidé mi contraseña' y validar su identidad con el correo corporativo.
-Si el error persiste después del segundo intento, el caso debe ser derivado al soporte de segundo nivel.

@@ -1,2 +1,0 @@
-Buenas prácticas de mesa de ayuda.
-Los sistemas de soporte deben mostrar fuentes, registrar trazabilidad y escalar consultas ambiguas o de baja confianza a un analista humano.

@@ -1,2 +1,0 @@
-Guía externa de buenas prácticas para gestión de credenciales.
-Se recomienda habilitar procesos de recuperación con validación por correo, autenticación multifactor y registro de auditoría para cambios de contraseña.
